@@ -5,7 +5,7 @@ Este es un pequeño proyecto independiente que sirve para reunir ejecutables de 
 # Requisitos del sistema
 El programa es muy simple, con lo que cualquier ordenador corriente de casa puede ejecutarlo. Lo que si hay que tener es java, ya que está realizado en código java.
 # Descarga e instalación del proyecto
-En el repositorio adjunto la carpeta del proyecto, el cual una vez descargado, debe pegarlo en el directorio de proyectos de su IDE (Netbeans, Eclipse...) para modificarle las rutas por defecto, también puede crearle un exe con programas como jsmooth o launch4j y un instalador con programas como inno setup.
+En el repositorio adjunto la carpeta del proyecto comprimida, el cual una vez descargado, debe descomprimir en el directorio de proyectos de su IDE (Netbeans, Eclipse...) para modificarle las rutas por defecto.
 # Instrucciones de uso
 Tras haber puesto la carpeta en el directorio de su IDE, debe de cambiar las rutas de los botones por las rutas de los programas que desee lanzar, ya que por defecto tengo puestos los mios con lo que solo le funcionaria el botón de salir del programa. Al estar realizado en modelo-vista-controlador, las rutas a modificar estan en el controlador con los comentarios correspondientes. Tambien puede modificar la interfaz a su gusto así como los iconos asignados a cada botón cuanto desee. Una vez hechas las modificaciones, puede compilar el proyecto para probar su funcionamiento pulsando cada botón de cada uno de los programas asignados y comprobar que se lanzan correctamente. Al finalizar puede crearle su propio exe y ejecutable ya que este es un proyecto libre por si a alguien más le interesa.
 # Realizado con
